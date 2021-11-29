@@ -1,0 +1,16 @@
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.csproj.AssemblyReference.cache
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.AssemblyInfoInputs.cache
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.AssemblyInfo.cs
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.csproj.CoreCompileInputs.cache
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\netFundamentalsOne.Series.exe
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\netFundamentalsOne.Series.deps.json
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\netFundamentalsOne.Series.runtimeconfig.json
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\netFundamentalsOne.Series.runtimeconfig.dev.json
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\netFundamentalsOne.Series.dll
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\ref\netFundamentalsOne.Series.dll
+C:\Users\Karlitos\git\netFundamentalsOne.Series\bin\Debug\net5.0\netFundamentalsOne.Series.pdb
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.dll
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\ref\netFundamentalsOne.Series.dll
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.pdb
+C:\Users\Karlitos\git\netFundamentalsOne.Series\obj\Debug\net5.0\netFundamentalsOne.Series.genruntimeconfig.cache
